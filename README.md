@@ -1,4 +1,4 @@
-# Seth-Porter-s-Multiple-Year-Stock-Data-Volumes
+# Seth-Porter-s-Multiple-Year-Stock-Data
 ## Background
 
 You are well on your way to becoming a programmer and Excel master! In this homework assignment you will use VBA scripting to analyze real stock market data.
